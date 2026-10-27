@@ -24,13 +24,14 @@
 4. **Анализ и визуализация:** Рассчитаны агрегированные метрики (KPI) и построены графики динамики с помощью Matplotlib.
 
 ## Структура проекта
+```
 ecommerce-sales-analysis/
 │
 ├── data/ # Исходные CSV-файлы (12 месяцев)
 ├── sales_analysis.ipynb # Jupyter Notebook с полным циклом анализа
 ├── queries.sql # Примеры SQL-запросов к данным
 └── README.md # Описание проекта
-
+```
 
 ## Как запустить
 1. Клонируйте репозиторий: `git clone https://github.com/dashixwd/econommerce-sales-analysis.git`
